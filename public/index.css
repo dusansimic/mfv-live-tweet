@@ -14,6 +14,10 @@ body {
   margin-left: 40px;
 }
 
+#header h1 {
+  font-size: 56px;
+}
+
 #body {
   height: 100%;
   width: 100%;
